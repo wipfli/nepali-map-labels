@@ -1,0 +1,3998 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2023-12-02T16:10:23Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/29922899",
+          "capital": "4",
+          "ele": "900",
+          "gns:ufi": "-1022488",
+          "int_name": "Pokhara",
+          "is_capital": "municipality",
+          "name": "पोखरा",
+          "name:bn": "পোখারা",
+          "name:cs": "Pókhara",
+          "name:de": "Pokhara",
+          "name:en": "Pokhara",
+          "name:es": "Pokhara",
+          "name:fr": "Pokhara",
+          "name:hi": "पोखरा",
+          "name:ja": "ポカラ",
+          "name:ne": "पोखरा",
+          "name:no": "Pokhara",
+          "name:ru": "Покхара",
+          "name:ta": "போக்காரா",
+          "name:uk": "Покгара",
+          "name:zh": "博卡拉",
+          "place": "city",
+          "population": "500000",
+          "source": "GNS;Landsat",
+          "website": "https://pokharamun.gov.np/",
+          "wikidata": "Q6640",
+          "wikipedia": "en:Pokhara"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.991402,
+            28.209538
+          ]
+        },
+        "id": "node/29922899"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/67157058",
+          "admin_level": "2",
+          "alt_name": "य",
+          "capital": "yes",
+          "capital_ISO3166-1": "yes",
+          "ele": "1355",
+          "int_name": "Kathmandu",
+          "name": "काठमाडौं",
+          "name:af": "Katmandoe",
+          "name:am": "ካትማንዱ",
+          "name:an": "Katmandú",
+          "name:ar": "كاثماندو",
+          "name:az": "Katmandu",
+          "name:bat-smg": "Katmandū",
+          "name:be": "Катманду",
+          "name:be-tarask": "Катманду",
+          "name:bg": "Катманду",
+          "name:bh": "काठमाडौं",
+          "name:bn": "কাঠমান্ডু",
+          "name:bo": "ཀ་ཏ་མན་ཏུ།",
+          "name:br": "Kathmandu",
+          "name:bs": "Katmandu",
+          "name:ca": "Katmandú",
+          "name:ckb": "کاتماندوو",
+          "name:cs": "Káthmándú",
+          "name:da": "Katmandu",
+          "name:de": "Kathmandu",
+          "name:el": "Κατμαντού",
+          "name:en": "Kathmandu",
+          "name:eo": "Katmanduo",
+          "name:es": "Katmandú",
+          "name:et": "Katmandu",
+          "name:eu": "Katmandu",
+          "name:fa": "کاتماندو",
+          "name:fr": "Katmandou",
+          "name:fy": "Katmandû",
+          "name:gl": "Katmandu - काठमांडौ",
+          "name:gu": "કાઠમંડુ",
+          "name:he": "קטמנדו",
+          "name:hi": "काठमांडू",
+          "name:hr": "Katmandu",
+          "name:hsb": "Katmandu",
+          "name:ht": "Katmandou",
+          "name:hu": "Katmandu",
+          "name:hy": "Կատմանդու",
+          "name:io": "Katmandu",
+          "name:is": "Katmandú",
+          "name:it": "Katmandu",
+          "name:ja": "カトマンズ",
+          "name:ka": "კატმანდუ",
+          "name:kk": "Катманду",
+          "name:kn": "ಕಾಠ್ಮಂಡು",
+          "name:ko": "카트만두",
+          "name:lb": "Katmandu",
+          "name:lij": "Katmandu",
+          "name:lt": "Katmandu",
+          "name:lv": "Katmandu",
+          "name:mk": "Катманду",
+          "name:ml": "കാഠ്മണ്ഡു",
+          "name:mn": "Катманду",
+          "name:mr": "काठमांडू",
+          "name:ne": "काठमाडौं",
+          "name:new": "येँ",
+          "name:nl": "Kathmandu",
+          "name:nn": "Katmandu",
+          "name:no": "Katmandu",
+          "name:nov": "Katmandu",
+          "name:oc": "Katmandó",
+          "name:os": "Катманду",
+          "name:pl": "Katmandu",
+          "name:pnb": "کھٹمنڈو",
+          "name:pt": "Catmandu",
+          "name:ru": "Катманду",
+          "name:sa": "काट्मण्डू",
+          "name:sh": "Katmandu",
+          "name:si": "කත්මන්ඩු",
+          "name:sk": "Káthmandu",
+          "name:sl": "Katmandu",
+          "name:sr": "Катманду",
+          "name:sv": "Katmandu",
+          "name:ta": "காட்மாண்டூ",
+          "name:te": "ఖాట్మండు",
+          "name:tg": "Катманду",
+          "name:th": "กาฐมาณฑุ",
+          "name:tr": "Katmandu",
+          "name:ug": "كاتماندۇ",
+          "name:uk": "Катманду",
+          "name:ur": "کھٹمنڈو",
+          "name:vi": "Kathmandu",
+          "name:vo": "Kathmandau",
+          "name:yue": "加德滿都",
+          "name:zh": "加德满都",
+          "name:zh-Hans": "加德满都",
+          "nat_name": "काठमांडौ",
+          "place": "city",
+          "population": "975000",
+          "source:name:br": "ofis publik ar brezhoneg",
+          "wikidata": "Q3037",
+          "wikipedia": "en:Kathmandu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3205817,
+            27.708317
+          ]
+        },
+        "id": "node/67157058"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245726282",
+          "alt_name:ar": "جايا",
+          "capital": "5",
+          "name": "Gaya",
+          "name:ar": "غايا",
+          "name:bn": "গয়া",
+          "name:en": "Gaya",
+          "name:he": "גיאה",
+          "name:hi": "गया",
+          "name:ja": "ガヤー",
+          "name:kn": "ಗಯಾ",
+          "name:ml": "ഗയ",
+          "name:mr": "गया",
+          "name:ne": "गया",
+          "name:pa": "ਗਯਾ",
+          "name:ru": "Гая",
+          "name:sat": "ᱜᱟᱭᱟ",
+          "name:ta": "கயை",
+          "name:uk": "Ґая",
+          "name:ur": "گایا",
+          "place": "city",
+          "population": "463500",
+          "postal_code": "823001",
+          "wikidata": "Q251329",
+          "wikipedia": "en:Gaya, India"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.0079563,
+            24.7964355
+          ]
+        },
+        "id": "node/245726282"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245733956",
+          "alt_name": "इलाहाबाद",
+          "alt_name:ar": "الله آباد",
+          "alt_name:ur": "پریاگ راج;پریاگراج;اللہ آباد;الہ آباد",
+          "is_in:country": "India",
+          "is_in:country_code": "IN",
+          "is_in:state": "Uttar Pradesh",
+          "name": "Prayagraj",
+          "name:ar": "براياغ",
+          "name:bn": "প্রয়াগরাজ",
+          "name:en": "Prayagraj",
+          "name:he": "'פרייגראג",
+          "name:hi": "प्रयागराज",
+          "name:ja": "イラーハーバード",
+          "name:kn": "ಅಲಹಾಬಾದ್",
+          "name:ko": "프라야그라지",
+          "name:ml": "പ്രയാഗരാജ്",
+          "name:ne": "प्रयागराज",
+          "name:pa": "ਇਲਾਹਾਬਾਦ",
+          "name:ru": "Праяаграж",
+          "name:sat": "ᱯᱨᱚᱭᱟᱜᱽᱨᱟᱡᱽ",
+          "name:te": "ప్రయాగ్రాజ్",
+          "name:uk": "Аллахабад",
+          "name:ur": "الٰہ آباد",
+          "name:zh": "普拉耶格拉吉（安拉阿巴德）",
+          "note": "Formerly known as 'Allahabad.'",
+          "old_name": "Allahabad",
+          "place": "city",
+          "place:cca": "b1",
+          "population": "5959798",
+          "postal_code": "211001",
+          "wikidata": "Q162442",
+          "wikipedia": "en:Allahabad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.8338005,
+            25.4381302
+          ]
+        },
+        "id": "node/245733956"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245738416",
+          "capital": "5",
+          "ele": "36",
+          "name": "Chhapra",
+          "name:bn": "ছাপড়া",
+          "name:en": "Chhapra",
+          "name:hi": "छपरा",
+          "name:kn": "ಛಪರಾ",
+          "name:ml": "ഛപ്രാ",
+          "name:mr": "छपरा",
+          "name:ne": "छपरा",
+          "name:pa": "ਛਪਰਾ",
+          "place": "city",
+          "population": "202300",
+          "postal_code": "841300",
+          "wikidata": "Q1755440",
+          "wikipedia": "en:Chhapra"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.7514507,
+            25.7784105
+          ]
+        },
+        "id": "node/245738416"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245738425",
+          "name": "Revelganj",
+          "name:ne": "रिविलगंज",
+          "place": "town",
+          "population": "50000",
+          "postal_code": "841315",
+          "wikidata": "Q2453460"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.6447511,
+            25.7846684
+          ]
+        },
+        "id": "node/245738425"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245748028",
+          "name": "Akbarpur",
+          "name:bn": "আকবরপুর",
+          "name:en": "Akbarpur",
+          "name:hi": "अकबरपुर",
+          "name:ne": "अकबरपुर",
+          "place": "city",
+          "population": "111500",
+          "postal_code": "224122",
+          "wikidata": "Q416835",
+          "wikipedia": "en:Akbarpur, Ambedkar Nagar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.5382541,
+            26.4200687
+          ]
+        },
+        "id": "node/245748028"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245751352",
+          "name": "Naksalbari",
+          "name:bn": "নকশালবাড়ী",
+          "name:ml": "നക്സൽബാരി",
+          "name:ne": "नक्सलवारी",
+          "place": "town",
+          "postal_code": "734429"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.2001439,
+            26.6844571
+          ]
+        },
+        "id": "node/245751352"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245753718",
+          "alt_name:ar": "لكهنؤ;لكناو",
+          "capital": "4",
+          "description": "Lucknow is the capital city of the Indian state of Uttar Pradesh, India. It is also nicknamed 'The City of Nawabs'.",
+          "is_capital": "state",
+          "is_in:country": "India",
+          "is_in:state": "Uttar Pradesh",
+          "name": "Lucknow",
+          "name:ar": "لكنو",
+          "name:bn": "লখনউ",
+          "name:en": "Lucknow",
+          "name:eo": "Laknaŭo",
+          "name:fa": "لکهنو",
+          "name:he": "לאקנאו",
+          "name:hi": "लखनऊ",
+          "name:ja": "ラクナウ",
+          "name:kn": "ಲಖ್ನೌ",
+          "name:ml": "ലഖ്‌നൗ",
+          "name:mr": "लखनऊ",
+          "name:ne": "लखनऊ",
+          "name:oc": "Lakhnau",
+          "name:or": "ଲକ୍ଷ୍ନୌ",
+          "name:pa": "ਲਖਨਊ",
+          "name:ru": "Лакхнау",
+          "name:sat": "ᱞᱚᱠᱷᱱᱚᱣ",
+          "name:ta": "இலக்னோ",
+          "name:te": "లక్నో",
+          "name:tr": "Leknev",
+          "name:uk": "Лакнау",
+          "name:ur": "لکھنؤ",
+          "name:zh": "勒克瑙",
+          "place": "city",
+          "population": "4588455",
+          "source:name:oc": "Lo Congrès",
+          "wikidata": "Q47916",
+          "wikipedia": "en:Lucknow"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.9346001,
+            26.8381
+          ]
+        },
+        "id": "node/245753718"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245756235",
+          "name": "Rangpo",
+          "name:ne": "राङ्पो",
+          "name:zh": "伦格博",
+          "place": "town",
+          "postal_code": "737132",
+          "wikidata": "Q2726240"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.5303403,
+            27.1744361
+          ]
+        },
+        "id": "node/245756235"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245756401",
+          "capital": "5",
+          "name": "Namchi",
+          "name:en": "Namchi",
+          "name:hi": "नाम्ची",
+          "name:ne": "नाम्ची",
+          "name:zh": "纳姆吉",
+          "place": "town",
+          "population": "5000",
+          "postal_code": "737126",
+          "source": "AND",
+          "wikidata": "Q2483862",
+          "wikipedia": "en:Namchi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.3651981,
+            27.1661262
+          ]
+        },
+        "id": "node/245756401"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245759077",
+          "capital": "5",
+          "name": "Balrampur",
+          "name:ja": "バルラームプル",
+          "name:ne": "बलरामपुर",
+          "place": "town",
+          "population": "5000",
+          "postal_code": "271200",
+          "source": "AND",
+          "wikidata": "Q612328",
+          "wikipedia": "en:Balrampur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.1854602,
+            27.4295126
+          ]
+        },
+        "id": "node/245759077"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245759954",
+          "gns:dsg_code": "PPL",
+          "gns:dsg_string": "populated place",
+          "gns:id": "-2113519",
+          "gns:uni": "-2933761",
+          "name": "Tulsīpur",
+          "name:en": "Tulsipur",
+          "name:hi": "तुलसीपुर",
+          "name:ml": "തുളസിപുർ",
+          "name:ne": "तुलसीपुर",
+          "place": "town",
+          "postal_code": "271208",
+          "source:GNSdata": "geonames.nga.mil(GNS)-country file (20220324))",
+          "wikidata": "Q2543331"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.4165115,
+            27.5337104
+          ]
+        },
+        "id": "node/245759954"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245760084",
+          "capital": "5",
+          "name": "Mangan",
+          "name:bn": "মাঙান",
+          "name:bpy": "মাঙান",
+          "name:en": "Mangan",
+          "name:hi": "मंगन",
+          "name:ne": "मङ्गन",
+          "name:new": "मंगन",
+          "name:zh": "门根",
+          "place": "town",
+          "population": "5000",
+          "postal_code": "737116",
+          "source": "AND",
+          "wikidata": "Q6748754",
+          "wikipedia": "en:Mangan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.5355333,
+            27.5011476
+          ]
+        },
+        "id": "node/245760084"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245760340",
+          "alt_name:ur": "سیتاپور",
+          "capital": "5",
+          "name": "Sitapur",
+          "name:bn": "সীতাপুর",
+          "name:en": "Sitapur",
+          "name:hi": "सीतापुर",
+          "name:ja": "スィータープル",
+          "name:kn": "ಸೀತಾಪುರ",
+          "name:ml": "സീതാപുർ",
+          "name:mr": "सीतापुर",
+          "name:ne": "सीतापुर",
+          "name:ru": "Ситапур",
+          "name:te": "సీతాపూర్",
+          "name:ur": "سیتا پور",
+          "place": "city",
+          "population": "177200",
+          "postal_code": "261001",
+          "wikidata": "Q922701",
+          "wikipedia": "en:Sitapur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.6840082,
+            27.5615568
+          ]
+        },
+        "id": "node/245760340"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/245768598",
+          "alt_name": "Pithoragari",
+          "capital": "5",
+          "name": "Pithoragarh",
+          "name:en": "Pithoragarh",
+          "name:hi": "पिथौरागढ़",
+          "name:ja": "ピトーラーガル",
+          "name:ml": "പിത്തോരാഗഡ്",
+          "name:ne": "पिथौरागढ",
+          "name:uk": "Пітгораґарг",
+          "nga:ufi": "-2108084",
+          "place": "town",
+          "population": "5000",
+          "postal_code": "262500",
+          "source": "AND;Bing, USGS, 2013-05-16;NGA",
+          "wikidata": "Q2249870",
+          "wikipedia": "en:Pithoragarh"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.215167,
+            29.585871
+          ]
+        },
+        "id": "node/245768598"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/268669741",
+          "name": "आबूखैरेनी बजार",
+          "name:en": "Aabu khaireni Bazar",
+          "name:ne": "आबूखैरेनी बजार",
+          "place": "town",
+          "wikidata": "Q4741936",
+          "wikipedia": "en:Anbu Khaireni"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.538429,
+            27.90423
+          ]
+        },
+        "id": "node/268669741"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/279339377",
+          "capital": "5",
+          "ele": "335",
+          "is_in:country": "Nepal",
+          "name": "Vyas (Damauli)",
+          "name:ja": "ダマウリ",
+          "name:ne": "व्यास (दमौली)",
+          "place": "town",
+          "wikidata": "Q5212062",
+          "wikipedia": "en:Damauli"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.2686174,
+            27.9770635
+          ]
+        },
+        "id": "node/279339377"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/282864466",
+          "capital": "6",
+          "name": "नेपालगन्ज",
+          "name:en": "Nepalgunj",
+          "name:fr": "Nepalganj",
+          "name:hi": "नेपालगंज",
+          "name:ja": "ネパールガンジ",
+          "name:kn": "ನೇಪಾಳಗಂಜ್",
+          "name:ne": "नेपालगन्ज",
+          "place": "town",
+          "population": "72503",
+          "source:population": "http://cbs.gov.np/wp-content/uploads/2012/11/VDC_Municipality.pdf",
+          "wikidata": "Q1025462",
+          "wikipedia": "en:Nepalgunj"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.625847,
+            28.058903
+          ]
+        },
+        "id": "node/282864466"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/287687798",
+          "alt_name:cs": "Benáres;Káší",
+          "alt_name:tr": "Vârânasi",
+          "name": "Varanasi",
+          "name:ar": "وارانسي",
+          "name:bn": "বারাণসি",
+          "name:cs": "Váránasí",
+          "name:en": "Varanasi",
+          "name:eo": "Varanasio",
+          "name:es": "Benarés",
+          "name:fa": "وارانسی",
+          "name:he": "ואראנסי",
+          "name:hi": "वाराणसी",
+          "name:ja": "ワーラーナシー",
+          "name:kn": "ವಾರಾಣಸಿ",
+          "name:ml": "വാരാണസി",
+          "name:ne": "बनारस",
+          "name:oc": "Benarès",
+          "name:pa": "ਵਾਰਾਣਸੀ",
+          "name:pl": "Waranasi",
+          "name:ru": "Варанаси",
+          "name:sat": "ᱵᱟᱨᱟᱬᱚᱥᱤ",
+          "name:sk": "Benáres",
+          "name:ta": "வாரணாசி",
+          "name:te": "వారణాసి",
+          "name:tr": "Benâres",
+          "name:ur": "وارانسی",
+          "old_name:fr": "Bénarès",
+          "old_name:pl": "Benares",
+          "old_name:tr": "Kaşî",
+          "place": "city",
+          "place:cca": "b1",
+          "population": "3100000",
+          "source:old_name:oc": "Lo Congrès",
+          "wikidata": "Q79980",
+          "wikipedia": "en:Varanasi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.0076292,
+            25.3356491
+          ]
+        },
+        "id": "node/287687798"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/293621413",
+          "admin_level": "8",
+          "ele": "760",
+          "is_in:country": "Nepal",
+          "is_in:district": "लमजुङ",
+          "name": "Besisahar",
+          "name:ja": "ベシサハル",
+          "name:ne": "बेसीसहर",
+          "place": "town",
+          "population": "15442",
+          "wikidata": "Q829880",
+          "wikipedia": "en:Besisahar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.376144,
+            28.231316
+          ]
+        },
+        "id": "node/293621413"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/296197839",
+          "alt_name": "Tānsen",
+          "alt_name_1": "Tānsing",
+          "capital": "5",
+          "gns:ufi": "-1022683",
+          "int_name": "Tansen",
+          "is_in": "Palpa, Nepal",
+          "name": "Tansen",
+          "name:en": "Tansen",
+          "name:ja": "タンセン",
+          "name:ne": "तानसेन",
+          "place": "town",
+          "source": "GNS",
+          "wikidata": "Q1499762",
+          "wikipedia": "en:Tansen, Nepal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.5469084,
+            27.866366
+          ]
+        },
+        "id": "node/296197839"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/296305204",
+          "int_name": "Kohalpur",
+          "is_in": "Banke, Bheri Zone, Nepal",
+          "name": "Kohalpur",
+          "name:en": "Kohalpur",
+          "name:ne": "कोहलपुर",
+          "place": "town",
+          "population": "40,000",
+          "wikidata": "Q3416596",
+          "wikipedia": "en:Kohalpur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.6849712,
+            28.1917807
+          ]
+        },
+        "id": "node/296305204"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/296306218",
+          "capital": "4",
+          "name": "हेटौडा",
+          "name:ar": "هيتودا",
+          "name:az-Arab": "هیتودا",
+          "name:azb": "هیتودا",
+          "name:en": "Hetauda",
+          "name:fa": "هتودا",
+          "name:hi": "हेटौडा",
+          "name:ja": "ヘトウラ",
+          "name:ks": "ہیٹوڈا",
+          "name:ne": "हेटौडा",
+          "name:pl": "Hetauda",
+          "name:ru": "Хетауде",
+          "name:ta": "கடுடா",
+          "name:ur": "ہیٹوڈا",
+          "name:zh": "黑道达/黑道達",
+          "name:zh-Hant": "黑道达",
+          "place": "city",
+          "wikidata": "Q11285",
+          "wikipedia": "ne:हेटौँडा उपमहानगरपालिका",
+          "wikipedia:ur": "ہیٹوڈا"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.0326586,
+            27.4295853
+          ]
+        },
+        "id": "node/296306218"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/299411935",
+          "name": "ཕུན་ཚོགས་གླིང་",
+          "name:be": "Пхунчолінг",
+          "name:cs": "Phuentšoling",
+          "name:de": "Phuentsholing",
+          "name:dz": "ཕུན་ཚོགས་གླིང་",
+          "name:en": "Phuntsholing",
+          "name:es": "Phuntsholing",
+          "name:fa": "پونت‌شولینگ",
+          "name:hu": "Puncoling",
+          "name:ja": "プンツォリン",
+          "name:ne": "फुन्छोलिङ्ग",
+          "name:sr": "Пхунчолинг",
+          "name:uk": "Пхуенчхолінґ",
+          "name:ur": "پھونتشولنگ",
+          "name:zh": "彭措林",
+          "name:zh-Hans": "彭措林",
+          "name:zh-Hant": "彭措林",
+          "name:zh_pinyin": "péng cuò lín",
+          "place": "town",
+          "wikidata": "Q856162",
+          "wikipedia": "dz:ཕུན་ཚོགས་གླིང་"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            89.3837363,
+            26.8639605
+          ]
+        },
+        "id": "node/299411935"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/329222054",
+          "capital": "5",
+          "name": "बिराटनगर",
+          "name:ar": "بيراتنغر",
+          "name:bn": "বিরাটনগর",
+          "name:en": "Biratnagar",
+          "name:fa": "بیراتنگر",
+          "name:hi": "बिराटनगर",
+          "name:ja": "ビラートナガル",
+          "name:kn": "ಬಿರಾತನಗರ",
+          "name:ne": "बिराटनगर",
+          "name:pl": "Biratnagar",
+          "name:ru": "Биратнагар",
+          "name:ur": "بیرات نگر",
+          "place": "city",
+          "population": "166674",
+          "source": "wikipedia",
+          "wikidata": "Q8247",
+          "wikipedia": "en:Biratnagar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.281617,
+            26.4623007
+          ]
+        },
+        "id": "node/329222054"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342097621",
+          "ele": "1600",
+          "name": "Gangtok",
+          "name:ar": "غانتوك",
+          "name:bn": "গ্যাংটক",
+          "name:bo": "སྒང་ཐོག",
+          "name:cs": "Gangtok",
+          "name:en": "Gangtok",
+          "name:et": "Gangtok",
+          "name:fa": "گنگتوک",
+          "name:he": "גנגטוק",
+          "name:hi": "गंगटोक",
+          "name:ja": "ガントク",
+          "name:kn": "ಗಂಗ್ಟೋಕ್",
+          "name:ml": "ഗങ്ങ്ടോക്ക്",
+          "name:ne": "गान्तोक",
+          "name:nl": "Gangtok",
+          "name:pa": "ਗੰਗਟੋਕ",
+          "name:pnb": "گنگٹوک",
+          "name:ru": "Гангток",
+          "name:ta": "கேங்டாக்",
+          "name:te": "గాంగ్టక్",
+          "name:uk": "Ґанґток",
+          "name:ur": "گینگٹاک",
+          "name:zh": "甘托克",
+          "place": "city",
+          "population": "100300",
+          "postal_code": "737101",
+          "wikidata": "Q186141",
+          "wikipedia": "en:Gangtok"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.6122673,
+            27.329046
+          ]
+        },
+        "id": "node/342097621"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342098314",
+          "name": "Pakyong",
+          "name:en": "Pakyong",
+          "name:ml": "പക്യോങ്ങ്",
+          "name:ne": "पाक्योङ",
+          "place": "town",
+          "wikidata": "Q7126101"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.5984989,
+            27.2436107
+          ]
+        },
+        "id": "node/342098314"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342098339",
+          "name": "Singtam",
+          "name:en": "Singtam",
+          "name:hi": "सिंगताम",
+          "name:ne": "सिङ्ताम",
+          "place": "town",
+          "wikidata": "Q934017",
+          "wikipedia": "en:Singtam"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.4970841,
+            27.2319975
+          ]
+        },
+        "id": "node/342098339"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342098351",
+          "alt_name": "Rabongla",
+          "name": "Ravangla",
+          "name:en": "Ravangla",
+          "name:hi": "रवंगला",
+          "name:ne": "राभाङ्गला",
+          "place": "town",
+          "population": "2282",
+          "wikidata": "Q3065077",
+          "wikipedia": "en:Ravangla"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.3644728,
+            27.3051267
+          ]
+        },
+        "id": "node/342098351"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342098412",
+          "name": "Bagdogra",
+          "name:bn": "বাগডোগরা",
+          "name:en": "Bagdogra",
+          "name:ne": "बागडोगरा",
+          "place": "town",
+          "wikidata": "Q4841529",
+          "wikipedia": "en:Bagdogra"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.3200303,
+            26.6988847
+          ]
+        },
+        "id": "node/342098412"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342098659",
+          "name": "Rongli",
+          "name:ne": "रोङली",
+          "place": "town",
+          "wikidata": "Q24929455"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.70087,
+            27.20352
+          ]
+        },
+        "id": "node/342098659"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342098800",
+          "name": "Lachen",
+          "name:ne": "लाचेन",
+          "place": "town",
+          "wikidata": "Q3215806"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.5495009,
+            27.7306136
+          ]
+        },
+        "id": "node/342098800"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342104453",
+          "alt_name": "Gyalshing",
+          "capital": "5",
+          "name": "Gayzing",
+          "name:en": "Gayzing",
+          "name:hi": "गेजिंग",
+          "name:ne": "गेजिङ",
+          "name:zh": "吉耶尔兴",
+          "place": "town",
+          "wikidata": "Q1707638",
+          "wikipedia": "en:Gyalshing"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.2573,
+            27.29004
+          ]
+        },
+        "id": "node/342104453"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/342104518",
+          "name": "Lamki Chuha",
+          "name:ne": "लम्की चुहा",
+          "place": "town",
+          "wikidata": "Q17007739",
+          "wikipedia": "en:Lamkichuha"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.152893,
+            28.628025
+          ]
+        },
+        "id": "node/342104518"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/509907130",
+          "capital": "4",
+          "is_capital": "state",
+          "name": "Patna",
+          "name:ar": "باتنا",
+          "name:arz": "باتنا",
+          "name:az-Arab": "پتنه",
+          "name:azb": "پتنه",
+          "name:bn": "পাটনা",
+          "name:de": "Patna",
+          "name:el": "Πάτνα",
+          "name:en": "Patna",
+          "name:eo": "Patnao",
+          "name:es": "Patna",
+          "name:fa": "پتنه",
+          "name:he": "פאטנה",
+          "name:hi": "पटना",
+          "name:hy": "Պատնա",
+          "name:ja": "パトナ",
+          "name:kn": "ಪಟ್ನಾ",
+          "name:ko": "파트나",
+          "name:ks": "پٹنہ",
+          "name:ml": "പട്ന",
+          "name:mr": "पटना",
+          "name:ne": "पटना",
+          "name:oc": "Patna",
+          "name:ota": "پتنه",
+          "name:pa": "ਪਟਨਾ",
+          "name:pa-Arab": "پٹنا",
+          "name:pnb": "پٹنا",
+          "name:ps": "پټنا",
+          "name:pt": "Patná",
+          "name:ro": "Patna",
+          "name:ru": "Патна",
+          "name:sat": "ᱯᱟᱴᱱᱟ",
+          "name:sd": "پٽنا",
+          "name:ta": "பட்னா",
+          "name:te": "పాట్నా",
+          "name:tr": "Patna",
+          "name:uk": "Патна",
+          "name:ur": "پٹنہ",
+          "name:zh": "巴特那",
+          "place": "city",
+          "place:cca": "b1",
+          "population": "500000",
+          "postal_code": "800001",
+          "wikidata": "Q80484",
+          "wikipedia": "en:Patna",
+          "wikipedia:pa": "ਪਟਨਾ",
+          "wikipedia:ur": "پٹنہ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.1235252,
+            25.6093239
+          ]
+        },
+        "id": "node/509907130"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/567076250",
+          "is_in": "Nepal, Asia",
+          "name": "Naubise",
+          "name:ne": "नौबिसे",
+          "name:new": "नौबिसे",
+          "place": "town",
+          "wikidata": "Q3425810",
+          "wikipedia": "en:Naubise"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.1517512,
+            27.7170972
+          ]
+        },
+        "id": "node/567076250"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/567090203",
+          "capital": "5",
+          "int_name": "Bharatpur",
+          "name": "भरतपुर",
+          "name:bn": "ভরতপুর",
+          "name:en": "Bharatpur",
+          "name:fr": "Bhâratpur",
+          "name:hi": "भरतपुर",
+          "name:ja": "バラトプル",
+          "name:ml": "ഭരത്പൂർ",
+          "name:ne": "भरतपुर",
+          "name:pl": "Bharatpur",
+          "name:ru": "Бхаратпур",
+          "name:ta": "பரத்பூர்",
+          "name:te": "భరత్పూర్",
+          "place": "city",
+          "population": "143836",
+          "source:population": "French Wikipedia",
+          "wikidata": "Q250220",
+          "wikipedia": "en:Bharatpur, Nepal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.4308773,
+            27.6806167
+          ]
+        },
+        "id": "node/567090203"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/569366488",
+          "name": "Koch Bihar",
+          "name:bn": "কোচবিহার",
+          "name:de": "Cooch Behar",
+          "name:en": "Cooch Behar",
+          "name:hi": "कूचबिहार",
+          "name:ml": "കൂച് ബിഹാർ",
+          "name:ne": "कोचबिहार",
+          "place": "city",
+          "population": "106760",
+          "postal_code": "736101",
+          "wikidata": "Q313640",
+          "wikipedia": "en:Cooch Behar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            89.4592445,
+            26.3223696
+          ]
+        },
+        "id": "node/569366488"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/575591611",
+          "int_name": "Damak",
+          "is_in": "Jhapa, Mechi, Nepal",
+          "name": "दमक",
+          "name:ar": "دمك",
+          "name:bn": "দমক",
+          "name:en": "Damak",
+          "name:fa": "دمک",
+          "name:ja": "ダマク",
+          "name:ne": "दमक",
+          "name:ur": "دمک",
+          "place": "city",
+          "population": "107500",
+          "population:date": "2022",
+          "source:population": "https://damakmun.gov.np/en",
+          "wikidata": "Q1458001",
+          "wikipedia": "en:Damak"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.7011507,
+            26.6650146
+          ]
+        },
+        "id": "node/575591611"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/575663805",
+          "name": "Siliguri",
+          "name:ar": "سلي غوري",
+          "name:bn": "শিলিগুড়ি",
+          "name:de": "Siliguri",
+          "name:el": "Σιλιγκούρι",
+          "name:en": "Siliguri",
+          "name:es": "Siliguri",
+          "name:he": "סיליגורי",
+          "name:hi": "सिलीगुड़ी",
+          "name:ja": "シリグリ",
+          "name:kn": "ಸಿಲಿಗುರಿ",
+          "name:ks": "سلی گوڑی",
+          "name:ml": "സിലിഗുഡി",
+          "name:ne": "सिलिगुडी",
+          "name:pa": "ਸਿਲੀਗੁੜੀ",
+          "name:ps": "سيليگوري",
+          "name:pt": "Shiliguri",
+          "name:ta": "சிலிகுரி",
+          "name:te": "సిలిగురి",
+          "name:ur": "سلی گوڑی",
+          "name:zh": "西里古里",
+          "place": "city",
+          "population": "1572000",
+          "wikidata": "Q5087",
+          "wikipedia": "en:Siliguri",
+          "wikipedia:ur": "سلی گوڑی"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.4309916,
+            26.7164127
+          ]
+        },
+        "id": "node/575663805"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/575741452",
+          "name": "Gorakhpur",
+          "name:ar": "غوراخبور",
+          "name:bn": "গোরখপুর",
+          "name:en": "Gorakhpur",
+          "name:he": "גוראקפור",
+          "name:hi": "गोरखपुर",
+          "name:ja": "ゴーラクプル",
+          "name:kn": "ಗೋರಾಖಪುರ",
+          "name:ml": "ഗോരഖ്പൂർ",
+          "name:ne": "गोरखपुर",
+          "name:pa": "ਗੋਰਖਪੁਰ",
+          "name:ru": "Горакхпур",
+          "name:sa": "गोरखपुरम्",
+          "name:ta": "கோரக்பூர்",
+          "name:te": "గోరఖ్‌పూర్",
+          "name:uk": "Ґоракхпур",
+          "name:ur": "گورکھپور",
+          "name:zh": "戈勒克布爾",
+          "place": "city",
+          "population": "671048",
+          "postal_code": "273001",
+          "source:link": "http://en.wikipedia.org/wiki/Gorakhpur",
+          "wikidata": "Q244415",
+          "wikipedia": "en:Gorakhpur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.3668129,
+            26.7600217
+          ]
+        },
+        "id": "node/575741452"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/575832041",
+          "alt_name": "Bhairahawa",
+          "alt_name_1": "Bhairwa",
+          "alt_name_2": "Bhairawa",
+          "alt_name_3": "Siddharthanagar",
+          "alt_name_4": "Bhairawa",
+          "alt_name_5": "Bhairhwa",
+          "capital": "5",
+          "gns:ufi": "-1021745",
+          "int_name": "Bhairahawa",
+          "name": "Siddhartanagar",
+          "name:hi": "सिद्धार्थनगर",
+          "name:ja": "シッダルタナガル",
+          "name:ne": "सिद्धार्थनगर",
+          "place": "town",
+          "population": "63483",
+          "source": "GNS",
+          "source:population": "French Wikipedia",
+          "wikidata": "Q1530936",
+          "wikipedia": "en:Siddharthanagar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.453148,
+            27.512726
+          ]
+        },
+        "id": "node/575832041"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/575866576",
+          "capital": "5",
+          "int_name": "Birganj",
+          "is_in": "Parsa, Narayani, Nepal",
+          "name": "बिरगंज",
+          "name:ar": "برغنج",
+          "name:bn": "বীরগঞ্জ",
+          "name:de": "Birganj",
+          "name:en": "Birgunj",
+          "name:fa": "برگنج",
+          "name:hi": "बिरगंज",
+          "name:ja": "ビールガンジ",
+          "name:ne": "बिरगंज",
+          "name:pl": "Birgunj",
+          "name:ru": "Биргандж",
+          "name:ur": "برگنج",
+          "place": "city",
+          "population": "135904",
+          "source:population": "French Wikipedia",
+          "wikidata": "Q8252",
+          "wikipedia": "en:Birgunj"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.8763804,
+            27.0135196
+          ]
+        },
+        "id": "node/575866576"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/576007690",
+          "alt_name": "樟木;Zhangmu;Zham;Khasa",
+          "capital": "8",
+          "int_name": "Zhangmu",
+          "name": "樟木镇 འགྲམ་",
+          "name:bo": "འགྲམ་",
+          "name:de": "Zhangmu",
+          "name:en": "Dram",
+          "name:ne": "खासा",
+          "name:tibt": "འགྲ་མ་",
+          "name:zh": "樟木镇",
+          "official_name": "樟木镇",
+          "place": "town",
+          "place:CN": "town",
+          "wikidata": "Q3270229",
+          "wikipedia": "zh:樟木镇 (日喀则市)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.9825411,
+            27.9918815
+          ]
+        },
+        "id": "node/576007690"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/607154975",
+          "name": "ताप्लेजुङ",
+          "name:en": "Taplejung",
+          "name:ja": "タプレジュン",
+          "name:ne": "ताप्लेजुङ",
+          "place": "town",
+          "wikidata": "Q7684703",
+          "wikipedia": "en:Taplejung"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.6727257,
+            27.3586978
+          ]
+        },
+        "id": "node/607154975"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/614900904",
+          "capital": "4",
+          "name": "রংপুর",
+          "name:ar": "رنكبور",
+          "name:bn": "রংপুর",
+          "name:de": "Rangpur",
+          "name:en": "Rangpur",
+          "name:es": "Rangpur",
+          "name:et": "Rangpur",
+          "name:eu": "Rangpur",
+          "name:fa": "رنگ‌پور",
+          "name:fr": "Rangpur",
+          "name:hi": "रंगपुर",
+          "name:ja": "ランプル",
+          "name:kn": "ರಂಗಪುರ್",
+          "name:ne": "रङ्गपुर",
+          "name:ru": "Рангпур",
+          "name:uk": "Рангпур",
+          "name:ur": "رنگپور",
+          "place": "city",
+          "population": "307053",
+          "population:date": "2011",
+          "source:population": "Wikipedia",
+          "wikidata": "Q994514",
+          "wikipedia": "it:Rangpur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            89.241459,
+            25.7569808
+          ]
+        },
+        "id": "node/614900904"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/723880699",
+          "alt_name": "Patan",
+          "capital": "5",
+          "name": "ललितपुर",
+          "name:bn": "ললিতপুর",
+          "name:cs": "Lalitpur",
+          "name:en": "Lalitpur",
+          "name:es": "Lalitpur",
+          "name:fr": "Lalitpur",
+          "name:hi": "ललितपुर",
+          "name:ja": "ラリトプル",
+          "name:kn": "ಪಾಟನ್",
+          "name:ne": "ललितपुर",
+          "name:new": "यल",
+          "name:zh": "拉利特普尔",
+          "official_name": "Lalitpur Sub-Metropolitan City",
+          "place": "town",
+          "population": "254000",
+          "source": "Wikipedia",
+          "wikidata": "Q6647",
+          "wikipedia": "en:Lalitpur, Nepal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.316805,
+            27.6767339
+          ]
+        },
+        "id": "node/723880699"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/806482934",
+          "capital": "4",
+          "name": "जनकपुर",
+          "name:be": "Джанакпур",
+          "name:bn": "জনকপুর",
+          "name:en": "Janakpur",
+          "name:fr": "Janakpur",
+          "name:hi": "जनकपुर",
+          "name:ja": "ジャナクプル",
+          "name:kn": "ಜನಕಪುರ",
+          "name:ne": "जनकपुर",
+          "name:pl": "Janakpur",
+          "name:ru": "Джанакпур",
+          "name:ta": "ஜனக்பூர்",
+          "place": "city",
+          "population": "95000",
+          "wikidata": "Q378649",
+          "wikipedia": "en:Janakpur, Nepal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.9249005,
+            26.7284541
+          ]
+        },
+        "id": "node/806482934"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/817072708",
+          "int_name": "Dharan",
+          "name": "धरान",
+          "name:bn": "ধারান",
+          "name:en": "Dharan",
+          "name:ja": "ダーラン",
+          "name:ne": "धरान",
+          "name:pl": "Dharan",
+          "place": "city",
+          "wikidata": "Q8254",
+          "wikipedia": "en:Dharan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.2839978,
+            26.8128974
+          ]
+        },
+        "id": "node/817072708"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/888239278",
+          "name": "Motihari",
+          "name:bn": "মোতিহারি",
+          "name:hi": "मोतिहारी",
+          "name:ja": "モーティーハーリー",
+          "name:ml": "മോത്തിഹാരി",
+          "name:ne": "मोतिहारी",
+          "place": "city",
+          "population": "126200",
+          "postal_code": "845400",
+          "wikidata": "Q1774606",
+          "wikipedia": "en:Motihari"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.9114654,
+            26.6506888
+          ]
+        },
+        "id": "node/888239278"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/973481984",
+          "alt_name": "Mustāng",
+          "alt_name_1": "Mushtang",
+          "alt_name_2": "Lo Mantang",
+          "alt_name_3": "Lho Mantang",
+          "alt_name_4": "Loh Mantung",
+          "gns:ufi": "-1022361",
+          "name": "Lo Manthang",
+          "name:en": "Lo Manthang",
+          "name:ne": "लो मन्थाङ",
+          "note": "Do not make this a village: it is the most important place in 200 km and former seat of a kingdom.",
+          "place": "town",
+          "source": "GNS",
+          "wikidata": "Q2603964",
+          "wikipedia": "en:Lo Manthang"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.956245,
+            29.182703
+          ]
+        },
+        "id": "node/973481984"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/974660324",
+          "name": "Damthang",
+          "name:en": "Damthang",
+          "name:hi": "दामथंग",
+          "name:ne": "दमथाङ",
+          "place": "town",
+          "wikidata": "Q5212982",
+          "wikipedia": "en:Damthang, Sikkim"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.3892057,
+            27.230641
+          ]
+        },
+        "id": "node/974660324"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1043713484",
+          "alt_name": "Baglung",
+          "alt_name_1": "Baglung Bazar",
+          "capital": "5",
+          "gns:ufi": "-1021654",
+          "hlcit:code": "524 3 08 43 3 001",
+          "is_in:country": "Nepal",
+          "is_in:district": "बागलुङ",
+          "is_in:vdc": "Baglung Municipality",
+          "is_in:zone": "Dhawalagiri",
+          "name": "बागलुङ",
+          "name:en": "Baglung",
+          "name:ja": "バグルン",
+          "name:ne": "बागलुङ",
+          "name:uk": "Баґлунґ",
+          "place": "town",
+          "population": "29360",
+          "source": "OCHA-ASIA",
+          "unocha:pcode": "W-DHA-45-031",
+          "unocha:vil_code": "W-DHA-45-031-02-001",
+          "unocha:vname": "Kalika N.P.",
+          "wikidata": "Q1659597",
+          "wikipedia": "en:Baglung"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.6029924,
+            28.2651055
+          ]
+        },
+        "id": "node/1043713484"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1138142345",
+          "name": "Mirik",
+          "name:bn": "মিরিক",
+          "name:en": "Mirik",
+          "name:ne": "मिरिक",
+          "place": "town",
+          "wikidata": "Q2733296",
+          "wikipedia": "en:Mirik"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.1888396,
+            26.8881872
+          ]
+        },
+        "id": "node/1138142345"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1180652177",
+          "is_in:country": "India",
+          "is_in:state": "Uttar Pradesh",
+          "name": "Kanpur",
+          "name:ar": "كانبور",
+          "name:bn": "কানপুর",
+          "name:en": "Kanpur",
+          "name:he": "קאנפור",
+          "name:hi": "कानपुर",
+          "name:kn": "ಕಾನ್ಪುರ",
+          "name:ko": "칸푸르",
+          "name:ml": "കാൺപൂർ",
+          "name:ne": "कानपुर",
+          "name:oc": "Kanpur",
+          "name:or": "କାନପୁର",
+          "name:pa": "ਕਾਨਪੁਰ",
+          "name:ru": "Канпур",
+          "name:sat": "ᱠᱟᱱᱯᱩᱨ",
+          "name:ta": "கான்பூர்",
+          "name:te": "కాన్పూర్",
+          "name:tr": "Kanpûr",
+          "name:ur": "کانپور",
+          "name:zh": "坎普尔",
+          "place": "city",
+          "population": "2767031",
+          "postal_code": "208012",
+          "source:name:oc": "Lo Congrès",
+          "wikidata": "Q66568",
+          "wikipedia": "en:Kanpur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.3217588,
+            26.4609135
+          ]
+        },
+        "id": "node/1180652177"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1328010317",
+          "alt_name": "Lachoong",
+          "name": "Lachung",
+          "name:en": "Lachung",
+          "name:hi": "लाचुंग",
+          "name:ne": "लाचुङ",
+          "name:zh": "拉冲",
+          "place": "town",
+          "wikidata": "Q3635042",
+          "wikipedia": "en:Lachung"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.7425876,
+            27.6897097
+          ]
+        },
+        "id": "node/1328010317"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1477920201",
+          "name": "Jorethang",
+          "name:ne": "जोरथाङ",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.2825347,
+            27.131523
+          ]
+        },
+        "id": "node/1477920201"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1492980542",
+          "capital": "4",
+          "name": "धनगढी",
+          "name:de": "Dhangadhi",
+          "name:en": "Dhangadhi",
+          "name:es": "Dhangadhi",
+          "name:fr": "Dhangadhi",
+          "name:hi": "धनगढी",
+          "name:ja": "ダンガディ",
+          "name:kn": "ಧಂಗಧಿ",
+          "name:ne": "धनगढी",
+          "name:ru": "Дхангадхи",
+          "name:ur": "دھن گڑھی",
+          "place": "city",
+          "population": "102000",
+          "wikidata": "Q1446993",
+          "wikipedia": "en:Dhangadhi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.567017,
+            28.703304
+          ]
+        },
+        "id": "node/1492980542"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1596350797",
+          "addr:city": "municipality",
+          "name": "मेचीनगर",
+          "name:bn": "মেচীনগর",
+          "name:en": "Mechi Nagar",
+          "name:hi": "मेचीनगर",
+          "name:ne": "मेचीनगर",
+          "place": "town",
+          "wikidata": "Q1520560",
+          "wikipedia": "en:Mechinagar",
+          "wikipedia:ne": "ne:मेचीनगर नगरपालिका"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.1463604,
+            26.6497234
+          ]
+        },
+        "id": "node/1596350797"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1772109893",
+          "name": "बूढानीलकण्ठ",
+          "name:en": "Budhanilkantha",
+          "name:kn": "ಬುಡನೀಲಕಂಠ",
+          "name:ne": "बूढानीलकण्ठ",
+          "place": "town",
+          "wikidata": "Q2385194",
+          "wikipedia": "en:Budanilkantha"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3621422,
+            27.7773873
+          ]
+        },
+        "id": "node/1772109893"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1833834697",
+          "capital": "5",
+          "name": "धुलिखेल",
+          "name:en": "Dhulikhel",
+          "name:ja": "ドゥリケル",
+          "name:ne": "धुलिखेल",
+          "place": "town",
+          "wikidata": "Q576437",
+          "wikipedia": "en:Dhulikhel"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.552917,
+            27.618921
+          ]
+        },
+        "id": "node/1833834697"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1958230582",
+          "alt_name": "Headquarter of Rolpa",
+          "name": "लिवाङ्",
+          "name:en": "Liwang",
+          "name:ne": "लिवाङ्",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.6370932,
+            28.3034253
+          ]
+        },
+        "id": "node/1958230582"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/1958240172",
+          "name": "भिङ्री बजार",
+          "name:en": "Bhingri Bajar",
+          "name:ne": "भिङ्री बजार",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.7115274,
+            28.1482152
+          ]
+        },
+        "id": "node/1958240172"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2035862217",
+          "alt_name": "Khwopa",
+          "alt_name_1": "Bhādgaon",
+          "alt_name_2": "Bhatgoan",
+          "alt_name_3": "Bhatgaon",
+          "alt_name_4": "Badagaon",
+          "capital": "5",
+          "name": "भक्तपुर",
+          "name:ar": "بهاكتابور",
+          "name:bn": "ভক্তপুর",
+          "name:en": "Bhaktapur",
+          "name:fr": "Bhatgaon",
+          "name:hi": "भक्तपुर",
+          "name:ja": "バクタプル",
+          "name:ml": "ഭക്തപൂർ",
+          "name:ne": "भक्तपुर",
+          "name:new": "ख्वप",
+          "name:ru": "Бхактапур",
+          "name:te": "భక్తపూర్",
+          "place": "city",
+          "wikidata": "Q843138"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.4261675,
+            27.6711133
+          ]
+        },
+        "id": "node/2035862217"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2164598178",
+          "name": "सिक्टी",
+          "name:bn": "সিকটি",
+          "name:en": "Sikti",
+          "name:ne": "सिक्टी",
+          "place": "town",
+          "population": "1000",
+          "postal_code": "854323"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.5512364,
+            26.4078645
+          ]
+        },
+        "id": "node/2164598178"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2177305620",
+          "name": "Manahari",
+          "name:en": "Manahari",
+          "name:ne": "मनहरि",
+          "place": "town",
+          "population": "10000",
+          "wikidata": "Q3418380",
+          "wikipedia": "en:Manahari"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.8055604,
+            27.5407519
+          ]
+        },
+        "id": "node/2177305620"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2246485364",
+          "alt_name": "Taulihawa",
+          "capital": "5",
+          "ele": "107",
+          "name": "Kapilavastu",
+          "name:en": "Kapilavastu",
+          "name:ja": "トウリハワ",
+          "name:ne": "कपिलवस्तु नगरपालिका",
+          "place": "town",
+          "wikidata": "Q955882"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.0525748,
+            27.5436472
+          ]
+        },
+        "id": "node/2246485364"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2251961918",
+          "name": "Suryabinayak",
+          "name:en": "Suryabinayak",
+          "name:ne": "सूर्यविनायक",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.41501,
+            27.658411
+          ]
+        },
+        "id": "node/2251961918"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2313807920",
+          "name": "पौडेगाउँ",
+          "name:de": "Mahalaxmi",
+          "name:en": "Phaudegau",
+          "name:ne": "पौडेगाउँ",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3667199,
+            27.6580281
+          ]
+        },
+        "id": "node/2313807920"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2365554101",
+          "alt_name": "Dakshīnkāli",
+          "name": "Dakshinkali",
+          "name:ne": "दक्षिणकाली",
+          "place": "town",
+          "wikidata": "Q3415703",
+          "wikipedia": "en:Dakshinkali"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.266627,
+            27.6100965
+          ]
+        },
+        "id": "node/2365554101"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2406229072",
+          "name": "Amargadhi",
+          "name:ja": "ダンデルドゥラ",
+          "name:ne": "अमरगढी",
+          "place": "town",
+          "wikidata": "Q3428727",
+          "wikipedia": "en:Amargadhi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.5886638,
+            29.3015377
+          ]
+        },
+        "id": "node/2406229072"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2406229105",
+          "name": "Syauli",
+          "name:ne": "स्याउली",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.6153661,
+            29.2921519
+          ]
+        },
+        "id": "node/2406229105"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2424150061",
+          "name": "मिर्चैया",
+          "name:bn": "মীরচৈয়া",
+          "name:en": "Mirchaiya",
+          "name:ne": "मिर्चैया",
+          "place": "town",
+          "wikidata": "Q3421554",
+          "wikipedia": "en:Mirchaiya"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            86.2524757,
+            26.8304301
+          ]
+        },
+        "id": "node/2424150061"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2424953267",
+          "addr:postcode": "57300",
+          "capital": "5",
+          "is_in:country": "Nepal",
+          "name": "इलाम",
+          "name:en": "Ilam",
+          "name:hi": "इलाम",
+          "name:ja": "イラーム",
+          "name:ne": "इलाम",
+          "name:pl": "Ilam",
+          "place": "town",
+          "population": "18633",
+          "wikidata": "Q950072",
+          "wikipedia": "en:Ilam, Nepal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.9281937,
+            26.9103896
+          ]
+        },
+        "id": "node/2424953267"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2462935816",
+          "capital": "5",
+          "name": "Tamghas",
+          "name:ja": "タムガス",
+          "name:ne": "तम्घास",
+          "place": "town",
+          "population": "14845",
+          "wikidata": "Q3091596",
+          "wikipedia": "en:Tamghas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.248442,
+            28.0687018
+          ]
+        },
+        "id": "node/2462935816"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2466276411",
+          "name": "सुरुङ्गा",
+          "name:bn": "সুরুঙ্গা",
+          "name:en": "Surunga",
+          "name:hi": "सुरूङ्गा",
+          "name:ne": "सुरुङ्गा",
+          "place": "town",
+          "wikidata": "Q3419653",
+          "wikipedia": "en:Surunga"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.8905995,
+            26.6462098
+          ]
+        },
+        "id": "node/2466276411"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2467557252",
+          "name": "लमही",
+          "name:en": "Lamahi",
+          "name:ne": "लमही",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.5223098,
+            27.8731938
+          ]
+        },
+        "id": "node/2467557252"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2560561826",
+          "name": "Sukhiapokhri",
+          "name:bn": "সুখিয়াপোখরি",
+          "name:ne": "सुखिया पोखरी",
+          "place": "town",
+          "wikidata": "Q7635805",
+          "wikipedia": "en:Sukhiapokhri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.1669557,
+            26.997366
+          ]
+        },
+        "id": "node/2560561826"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2643251995",
+          "name": "चैनपुर",
+          "name:en": "Chainpur",
+          "name:ne": "चैनपुर",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.3194877,
+            27.2934027
+          ]
+        },
+        "id": "node/2643251995"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2803154322",
+          "capital": "5",
+          "name": "राजबिराज",
+          "name:bn": "রাজবিরাজ",
+          "name:en": "Rajbiraj",
+          "name:ja": "ラジビラージ",
+          "name:ne": "राजबिराज",
+          "name:ru": "Раджбирадж",
+          "place": "town",
+          "population": "37738",
+          "wikidata": "Q2463109",
+          "wikipedia": "en:Rajbiraj"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            86.74855,
+            26.539598
+          ]
+        },
+        "id": "node/2803154322"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2820894452",
+          "name": "दुहबि",
+          "name:bn": "দুহবি",
+          "name:de": "Duhabi-Bhaluwa",
+          "name:en": "Duhabi",
+          "name:ne": "दुहबि",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.2801836,
+            26.56776
+          ]
+        },
+        "id": "node/2820894452"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/2924267068",
+          "capital": "5",
+          "name": "भिमदत्त",
+          "name:bn": "ভিমদত্ত",
+          "name:de": "Bhimdatta",
+          "name:en": "Bhimdatta",
+          "name:es": "Bhimdatta",
+          "name:fr": "Bhimdatta",
+          "name:hi": "भिम् डत्ता",
+          "name:ja": "マヘンドラナガル",
+          "name:kn": "ಭೀಮದತ್ತ",
+          "name:ne": "भिमदत्त",
+          "name:pl": "Bhimdatta",
+          "name:ur": "مہیندرنگر",
+          "old_name": "Mahendranagar",
+          "place": "city",
+          "population": "104444",
+          "wikidata": "Q1447167",
+          "wikipedia": "ne:भीमदत्त नगरपालिका"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.1785465,
+            28.9665746
+          ]
+        },
+        "id": "node/2924267068"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3001756120",
+          "name": "Phidim",
+          "name:en": "Phidim",
+          "name:ja": "フィディム",
+          "name:ne": "फिदिम",
+          "place": "town",
+          "wikidata": "Q3423893",
+          "wikipedia": "en:Phidim"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.7660956,
+            27.1441345
+          ]
+        },
+        "id": "node/3001756120"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3111063998",
+          "alt_name": "Piuthān",
+          "name": "प्युठान",
+          "name:en": "Pyūthān",
+          "name:ja": "ピュータン",
+          "name:ne": "प्युठान",
+          "name:uk": "П'ютган",
+          "place": "town",
+          "source": "geonames.nga.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.8842713,
+            28.0886113
+          ]
+        },
+        "id": "node/3111063998"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3172617940",
+          "alt_name": "Butwaī;Butaul",
+          "capital": "4",
+          "gns:ufi": "-1021804",
+          "loc_name": "Batauli",
+          "long_name": "Butwal Nagarpalika",
+          "long_name:ne": "बुटवल उपमहानगरपालिका",
+          "name": "बुटवल",
+          "name:bn": "বুটওয়াল",
+          "name:de": "Butwal",
+          "name:en": "Butwal",
+          "name:es": "Butwal",
+          "name:ja": "ブトワル",
+          "name:ne": "बुटवल नगरपालिका",
+          "name:ur": "بٹوال",
+          "nat_name": "Butwal",
+          "old_name": "Khasauli",
+          "place": "city",
+          "reg_name": "Butwal",
+          "wikidata": "Q11283",
+          "wikipedia": "ne:बुटवल उपमहानगरपालिका"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.4657667,
+            27.7003986
+          ]
+        },
+        "id": "node/3172617940"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3316604577",
+          "capital": "5",
+          "name": "भद्रपुर",
+          "name:en": "Bhadrapur",
+          "name:ja": "バドラプール",
+          "name:ne": "भद्रपुर",
+          "name:pl": "Bhadrapur",
+          "place": "town",
+          "wikidata": "Q1751446",
+          "wikipedia": "en:Bhadrapur, Mechi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.0903762,
+            26.5455566
+          ]
+        },
+        "id": "node/3316604577"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3345770104",
+          "capital": "5",
+          "is_in:country": "Nepal",
+          "name": "धनकुटा",
+          "name:en": "Dhankuta",
+          "name:ja": "ダンクタ",
+          "name:ne": "धनकुटा",
+          "place": "town",
+          "population": "26440",
+          "wikidata": "Q1530717",
+          "wikipedia": "en:Dhankuta"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.3451034,
+            26.9825083
+          ]
+        },
+        "id": "node/3345770104"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3380959036",
+          "is_in:country": "Nepal",
+          "is_in:country_code": "NP",
+          "name": "Tikapur",
+          "name:de": "Tikapur",
+          "name:en": "Tikapur",
+          "name:es": "Tikapur",
+          "name:fr": "Tikapur",
+          "name:ja": "ティカプル",
+          "name:kn": "ಟಿಕಪುರ್",
+          "name:ne": "टिकापुर",
+          "place": "town",
+          "population": "56100",
+          "population:date": "2011",
+          "source:population": "https://fr.wikipedia.org/wiki/Tikapur",
+          "wikidata": "Q1659926",
+          "wikipedia": "en:Tikapur"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.119298,
+            28.5282679
+          ]
+        },
+        "id": "node/3380959036"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3383645104",
+          "name": "भिमेश्वर",
+          "name:en": "Bhimeshwar",
+          "name:ne": "भिमेश्वर",
+          "place": "town",
+          "population": "22537",
+          "population:date": "2011",
+          "source": "GNS",
+          "wikidata": "Q1590869",
+          "wikipedia": "en:Bhimeshwar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            86.0488323,
+            27.6635631
+          ]
+        },
+        "id": "node/3383645104"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3385201356",
+          "name": "जाजरकोट",
+          "name:en": "Jajarkot",
+          "name:hu": "Jajarkot",
+          "name:ja": "ジャージャルコート",
+          "name:ne": "जाजरकोट",
+          "place": "town",
+          "wikidata": "Q6124341",
+          "wikipedia": "en:Jajarkot"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.198257,
+            28.698212
+          ]
+        },
+        "id": "node/3385201356"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3385201358",
+          "name": "मुसिकोट",
+          "name:en": "Musikot",
+          "name:ja": "ムシコート",
+          "name:ne": "मुसिकोट",
+          "name:uk": "Мусікот",
+          "place": "town",
+          "wikidata": "Q3420064",
+          "wikipedia": "en:Musikot, Western Rukum"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.455626,
+            28.6292298
+          ]
+        },
+        "id": "node/3385201358"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3385201652",
+          "is_in:municipality": "Simikot",
+          "is_in:ward": "6",
+          "name": "सिमिकोट",
+          "name:en": "Simikot",
+          "name:ja": "シミコット",
+          "name:ne": "सिमिकोट",
+          "place": "town",
+          "wikidata": "Q2152374",
+          "wikipedia": "fr:Simikot",
+          "wikipedia:en": "Simikot"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.8201602,
+            29.9728637
+          ]
+        },
+        "id": "node/3385201652"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3385301838",
+          "name": "नारायण",
+          "name:en": "Narayan",
+          "name:ne": "नारायण",
+          "place": "town",
+          "wikidata": "Q1965111",
+          "wikipedia": "en:Narayan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.7110384,
+            28.8428782
+          ]
+        },
+        "id": "node/3385301838"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3385320866",
+          "name": "दुल्लु",
+          "name:en": "Dullu",
+          "name:ne": "दुल्लु",
+          "place": "town",
+          "wikidata": "Q3411696",
+          "wikipedia": "en:Dullu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.604836,
+            28.859602
+          ]
+        },
+        "id": "node/3385320866"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3385949681",
+          "capital": "5",
+          "name": "सन्धिखर्क",
+          "name:en": "Sandhikharka",
+          "name:ja": "サンディカルカ",
+          "name:ne": "सन्धिखर्क",
+          "name:ru": "Сандихарка",
+          "place": "town",
+          "wikidata": "Q3091584",
+          "wikipedia": "en:Sandhikharka"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.127113,
+            27.975697
+          ]
+        },
+        "id": "node/3385949681"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3386116337",
+          "name": "कपुरकोट",
+          "name:en": "Kapurkot",
+          "name:ne": "कपुरकोट",
+          "place": "town",
+          "wikidata": "Q60771137",
+          "wikipedia": "en:Kapurkot"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.3507966,
+            28.2313203
+          ]
+        },
+        "id": "node/3386116337"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3386116339",
+          "name": "लुहाम",
+          "name:en": "Luham",
+          "name:ne": "लुहाम",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.2602194,
+            28.2955487
+          ]
+        },
+        "id": "node/3386116339"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3386117460",
+          "name": "सल्यान खलङ्‍गा",
+          "name:en": "Salyan Khalanga",
+          "name:ne": "सल्यान खलङ्‍गा",
+          "place": "town",
+          "wikidata": "Q2202781",
+          "wikipedia": "en:Salyan Khalanga"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.1616243,
+            28.376621
+          ]
+        },
+        "id": "node/3386117460"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3387669747",
+          "capital": "5",
+          "name": "Dhading Besi",
+          "name:ne": "धादिंग बेंसी",
+          "place": "town",
+          "wikidata": "Q3361494",
+          "wikipedia": "en:Dhading Besi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.8952805,
+            27.9108933
+          ]
+        },
+        "id": "node/3387669747"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3388922070",
+          "name": "Okhaldhunga",
+          "name:ja": "オカルドゥンガ",
+          "name:ne": "ओखलढुङ्गा",
+          "name:uk": "Окгалдгунґа",
+          "place": "town",
+          "source:name:uk": "https://1drv.ms/b/s!Ar-WXIFaX7UdgQs-x7Qj83y_IvGR",
+          "wikidata": "Q952901",
+          "wikipedia": "en:Okhaldhunga"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            86.501404,
+            27.317984
+          ]
+        },
+        "id": "node/3388922070"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3411073296",
+          "alt_name:en": "Dorji Ling;Wangdu Dorji Ling",
+          "name": "Darjeeling",
+          "name:ar": "دارجلينغ",
+          "name:bn": "দার্জিলিং",
+          "name:bo": "དབང་འདུས་རྡོ་རྗེ་གླིང",
+          "name:bo-Latn-wylie": "dbang 'dus rdo rje gling",
+          "name:cs": "Dárdžiling",
+          "name:en": "Darjeeling",
+          "name:he": "דרג'ילינג",
+          "name:hi": "डार्जिलिंग",
+          "name:ja": "ダージリン",
+          "name:kn": "ಡಾರ್ಜಿಲಿಂಗ್‌",
+          "name:ml": "ഡാർജിലിങ്",
+          "name:ne": "दार्जिलिङ",
+          "name:pa": "ਦਾਰਜੀਲਿੰਗ",
+          "name:ru": "Дарджилинг",
+          "name:ta": "டார்ஜீலிங்",
+          "name:te": "డార్జిలింగ్",
+          "name:zh": "大吉岭",
+          "place": "city",
+          "population": "118800",
+          "wikidata": "Q169997"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.263176,
+            27.0377554
+          ]
+        },
+        "id": "node/3411073296"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3453005271",
+          "name": "प्रगतिनगर",
+          "name:en": "Pragatinagar",
+          "name:ne": "प्रगतिनगर",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.1800393,
+            27.6670739
+          ]
+        },
+        "id": "node/3453005271"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3453225373",
+          "name": "Khairahani",
+          "name:en": "Khairahani",
+          "name:ne": "खैरहनी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.573518,
+            27.6111824
+          ]
+        },
+        "id": "node/3453225373"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3480018174",
+          "capital": "5",
+          "fixme": "Town",
+          "gns:ufi": "-1022445",
+          "name": "Ramgram",
+          "name:de": "Ramgram",
+          "name:ne": "रामग्राम",
+          "place": "town",
+          "source": "GNS;local knowledge"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.6665482,
+            27.5328566
+          ]
+        },
+        "id": "node/3480018174"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3481538971",
+          "name": "उर्लाबारी",
+          "name:bn": "উর্লাবাড়ী",
+          "name:en": "Urlabari",
+          "name:ne": "उर्लाबारी",
+          "name:pl": "Urlabari",
+          "place": "town",
+          "wikidata": "Q3427844",
+          "wikipedia": "en:Urlabari"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.6384009,
+            26.663915
+          ]
+        },
+        "id": "node/3481538971"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3487433046",
+          "name": "Pokhriabong",
+          "name:en": "Pokhriabong",
+          "name:ne": "पोखरियाबोङ",
+          "place": "town",
+          "wikipedia": "en:Pokhriabong"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.1794547,
+            26.9505151
+          ]
+        },
+        "id": "node/3487433046"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3496148179",
+          "alt_name_1": "Tokna",
+          "flag_skip": "lat",
+          "name": "टोखा",
+          "name:en": "Tokha",
+          "name:ne": "टोखा",
+          "place": "town",
+          "population": "5152",
+          "source": "GNS",
+          "wikidata": "Q20809741",
+          "wikipedia": "de:Tokha"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.333333,
+            27.75
+          ]
+        },
+        "id": "node/3496148179"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3509138892",
+          "fixme": "residential area",
+          "flag_skip": "lat-lon",
+          "name": "गुरुधाम",
+          "name:bn": "গুরধাম",
+          "name:en": "Gurdhām",
+          "name:ne": "गुरुधाम",
+          "place": "town",
+          "source": "GNS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            86.3314614,
+            26.7926143
+          ]
+        },
+        "id": "node/3509138892"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3528110414",
+          "name": "छेबेटार बजार",
+          "name:en": "ChebeTar Bazar",
+          "name:ne": "छेबेटार बजार",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.5684588,
+            27.9952599
+          ]
+        },
+        "id": "node/3528110414"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3727776757",
+          "capital": "3",
+          "name": "भालुबाङ्ग",
+          "name:en": "Bhalubang",
+          "name:ne": "भालुबाङ्ग",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.7610359,
+            27.8411172
+          ]
+        },
+        "id": "node/3727776757"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3748777354",
+          "name": "गढवा",
+          "name:en": "Gadhawa",
+          "name:ne": "गढवा",
+          "place": "town",
+          "population": "7800"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.5384584,
+            27.8110914
+          ]
+        },
+        "id": "node/3748777354"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3781738499",
+          "name": "Kuwakot",
+          "name:ne": "कुवाकोट",
+          "place": "town",
+          "wikidata": "Q6449042",
+          "wikipedia": "en:Kuwakot, Gandaki"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.797836,
+            27.894232
+          ]
+        },
+        "id": "node/3781738499"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3957677257",
+          "name": "Putalibazar",
+          "name:ne": "पुतलीबजार",
+          "place": "town",
+          "population": "30704",
+          "wikidata": "Q1748919",
+          "wikipedia": "de:Putalibazar"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.8747285,
+            28.0980009
+          ]
+        },
+        "id": "node/3957677257"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/3969240909",
+          "name": "Kurseong",
+          "name:bn": "কার্শিয়াং",
+          "name:en": "Kurseong",
+          "name:ne": "खरसाङ",
+          "place": "town",
+          "wikidata": "Q1025634",
+          "wikipedia": "en:Kurseong"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.2783637,
+            26.8818268
+          ]
+        },
+        "id": "node/3969240909"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4226097420",
+          "name": "सगरमाथा चोक",
+          "name:en": "Sagarmatha Chowk",
+          "name:ne": "सगरमाथा चोक",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.0158957,
+            28.1754276
+          ]
+        },
+        "id": "node/4226097420"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4290979572",
+          "capital": "no",
+          "is_in:country": "India",
+          "is_in:country_code": "IN",
+          "is_in:state": "West Bengal",
+          "name": "Sonada",
+          "name:bn": "সোনাদা",
+          "name:en": "Sonada",
+          "name:ne": "सोनादा",
+          "place": "town",
+          "postal_code": "734102",
+          "wikidata": "Q7560731",
+          "wikipedia": "en:Sonada"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.2748994,
+            26.9614331
+          ]
+        },
+        "id": "node/4290979572"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4382235692",
+          "name": "नयाँ नैकाप",
+          "name:en": "Naya Naikap",
+          "name:ne": "नयाँ नैकाप",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.2647084,
+            27.6872539
+          ]
+        },
+        "id": "node/4382235692"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4404077444",
+          "name": "अमिलिया",
+          "name:en": "Amiliya",
+          "name:ne": "अमिलिया",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.2113841,
+            27.9714787
+          ]
+        },
+        "id": "node/4404077444"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4481649351",
+          "description": "Wana is a city located in Panchkhapan Municipality, Sankhuwasabha District, Province #1, Nepal",
+          "name": "Wana",
+          "name:ne": "वाना",
+          "place": "town",
+          "population": "5000",
+          "wikidata": "Q55628506",
+          "wikipedia": "en:Panchkhapan Municipality"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.3094713,
+            27.3328163
+          ]
+        },
+        "id": "node/4481649351"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4763755375",
+          "name": "नारायणपुर",
+          "name:en": "Narayanpur",
+          "name:ne": "नारायणपुर",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.4082294,
+            28.0537392
+          ]
+        },
+        "id": "node/4763755375"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4763786621",
+          "name": "बेलझुण्डी",
+          "name:en": "Beljhundi",
+          "name:ne": "बेलझुण्डी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.359667,
+            28.0960411
+          ]
+        },
+        "id": "node/4763786621"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4763790360",
+          "name": "बिजौरी",
+          "name:en": "Bijauri",
+          "name:ne": "बिजौरी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.3388122,
+            28.1141479
+          ]
+        },
+        "id": "node/4763790360"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4763793928",
+          "name": "पर्सेनी",
+          "name:en": "Parseni",
+          "name:ne": "पर्सेनी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.3254175,
+            28.1203469
+          ]
+        },
+        "id": "node/4763793928"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4839799919",
+          "name": "रामपुर",
+          "name:en": "Rampur",
+          "name:ne": "रामपुर",
+          "place": "town",
+          "population": "35396",
+          "wikidata": "Q7290057",
+          "wikipedia": "en:Rampur, Palpa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            83.8936046,
+            27.8581107
+          ]
+        },
+        "id": "node/4839799919"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/4896508190",
+          "name": "गोरखा",
+          "name:bn": "গুর্খা",
+          "name:en": "Gorkha",
+          "name:ne": "गोरखा",
+          "place": "city"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.6259428,
+            27.9969584
+          ]
+        },
+        "id": "node/4896508190"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5417397405",
+          "name": "इटहरी",
+          "name:bn": "ইটাহারি",
+          "name:en": "Itahari",
+          "name:ne": "इटहरी",
+          "name:pl": "Itahari",
+          "place": "city",
+          "wikidata": "Q1675026",
+          "wikipedia": "en:Itahari"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.2748964,
+            26.6622505
+          ]
+        },
+        "id": "node/5417397405"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5741082255",
+          "name": "खैरा",
+          "name:en": "Khaira",
+          "name:ne": "खैरा",
+          "place": "town",
+          "source": "local knowledge"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.3982761,
+            28.062632
+          ]
+        },
+        "id": "node/5741082255"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5809166582",
+          "capital": "6",
+          "name": "घोराही",
+          "name:en": "Ghorahi",
+          "name:fr": "Ghorahi",
+          "name:ne": "घोराही",
+          "old_name:fr": "Tribhuwannagar",
+          "place": "city",
+          "wikidata": "Q1447290",
+          "wikipedia": "en:Ghorahi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.4866861,
+            28.0393605
+          ]
+        },
+        "id": "node/5809166582"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5874653695",
+          "capital": "5",
+          "name": "तुलसीपुर",
+          "name:bn": "তুলসীপুর",
+          "name:en": "Tulsipur",
+          "name:fr": "Tulsipur",
+          "name:hi": "तुलसीपुर",
+          "name:ne": "तुलसीपुर",
+          "place": "city",
+          "wikidata": "Q1766076"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.2983065,
+            28.1312133
+          ]
+        },
+        "id": "node/5874653695"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/5914126159",
+          "name": "Jalpaiguri",
+          "name:bn": "জলপাইগুড়ি",
+          "name:en": "Jalpaiguri",
+          "name:hi": "जलपाईगुड़ी",
+          "name:kn": "ಜಲ್ಪೈಗುರಿ",
+          "name:ml": "ജൽപായ്ഗുഡി",
+          "name:ne": "जलपाईगुडी",
+          "place": "city",
+          "population": "107400",
+          "postal_code": "735101",
+          "wikidata": "Q1949125",
+          "wikipedia": "en:Jalpaiguri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.7197513,
+            26.5241586
+          ]
+        },
+        "id": "node/5914126159"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6170798485",
+          "amenity": "bus_station",
+          "name": "जिरीखिम्ती",
+          "name:en": "Jiri Khimti",
+          "name:ne": "जिरीखिम्ती",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.5108123,
+            27.1634273
+          ]
+        },
+        "id": "node/6170798485"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6339947315",
+          "name": "Jiri",
+          "name:bn": "জিরি",
+          "name:en": "Jiri",
+          "name:ne": "जिरी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            86.2310664,
+            27.6373777
+          ]
+        },
+        "id": "node/6339947315"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6349584672",
+          "name": "महालक्ष्मी",
+          "name:de": "Mahalaxmi",
+          "name:en": "Mahalaxmi",
+          "name:ne": "महालक्ष्मी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3685094,
+            27.6466703
+          ]
+        },
+        "id": "node/6349584672"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6434169987",
+          "name": "Godawari",
+          "name:de": "Godawari",
+          "name:ne": "गोदावरी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3345577,
+            27.6156322
+          ]
+        },
+        "id": "node/6434169987"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6461590329",
+          "name": "कालिका",
+          "name:en": "Kalika",
+          "name:ne": "कालिका",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.5063689,
+            27.6857995
+          ]
+        },
+        "id": "node/6461590329"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6508542863",
+          "name": "Madhyapur Thimi",
+          "name:en": "Madhyapur Thimi",
+          "name:ne": "मध्यपुर थिमि",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3857303,
+            27.6800062
+          ]
+        },
+        "id": "node/6508542863"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6646454828",
+          "name": "Chandragiri",
+          "name:ne": "चन्द्रागिरी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.2247831,
+            27.6928184
+          ]
+        },
+        "id": "node/6646454828"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6646454830",
+          "name": "कागेश्वरी मनोहरा",
+          "name:en": "Kageshwori Manohara",
+          "name:ne": "कागेश्वरी मनोहरा",
+          "place": "town",
+          "wikidata": "Q20809750",
+          "wikipedia": "en:Kageshwari-Manohara"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.4084253,
+            27.7279083
+          ]
+        },
+        "id": "node/6646454830"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6646454831",
+          "name": "नागार्जुन",
+          "name:en": "Nagarjun",
+          "name:ne": "नागार्जुन",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.2733179,
+            27.6992858
+          ]
+        },
+        "id": "node/6646454831"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6646454832",
+          "name": "Shankharapur",
+          "name:ne": "शंखरापुर",
+          "place": "town",
+          "wikidata": "Q7488720"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.5008276,
+            27.7504365
+          ]
+        },
+        "id": "node/6646454832"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6646454833",
+          "name": "तारकेश्वर",
+          "name:bn": "তারকেশ্বর",
+          "name:en": "Tarakeshwar",
+          "name:ne": "तारकेश्वर",
+          "place": "town",
+          "wikidata": "Q20809830"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3099203,
+            27.7531425
+          ]
+        },
+        "id": "node/6646454833"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/6652889772",
+          "name": "Changunarayan",
+          "name:ne": "चाँगुनारायण",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.4437861,
+            27.7094612
+          ]
+        },
+        "id": "node/6652889772"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7674559423",
+          "name": "Panitanki",
+          "name:bn": "পানিট্যাঙ্কি",
+          "name:ne": "पानीट्याङ्की",
+          "place": "town",
+          "wikidata": "Q25341396"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.171244,
+            26.6405852
+          ]
+        },
+        "id": "node/7674559423"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/7867791081",
+          "name": "महालक्ष्मी",
+          "name:de": "Mahalaxmi",
+          "name:en": "Mahalaxmi",
+          "name:ne": "महालक्ष्मी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.3709918,
+            27.6463117
+          ]
+        },
+        "id": "node/7867791081"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8157956930",
+          "int_name": "Chandannath",
+          "name": "Rimna Bazar",
+          "name:en": "Chandannath",
+          "name:ne": "रिम्ना बजार",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.1862242,
+            29.2742186
+          ]
+        },
+        "id": "node/8157956930"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8267932624",
+          "name": "चतरा",
+          "name:en": "Chatara",
+          "name:ne": "चतरा",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            87.1611255,
+            26.8203203
+          ]
+        },
+        "id": "node/8267932624"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8309132733",
+          "alt_name": "Manma Bazar",
+          "name": "Manma",
+          "name:en": "Manma",
+          "name:ne": "मान्मा",
+          "place": "town",
+          "source": "yil2020"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.612609,
+            29.1503646
+          ]
+        },
+        "id": "node/8309132733"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8394090258",
+          "name": "उरहरी",
+          "name:en": "Urahari",
+          "name:fr": "Urahari",
+          "name:ne": "उरहरी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.2606374,
+            28.0538525
+          ]
+        },
+        "id": "node/8394090258"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8465182009",
+          "capital": "6",
+          "name": "दिपायल",
+          "name:en": "Dipayal",
+          "name:ne": "दिपायल",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.9392387,
+            29.2601327
+          ]
+        },
+        "id": "node/8465182009"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8465280710",
+          "name": "सिलगढी",
+          "name:en": "Silgadhi",
+          "name:ne": "सिलगढी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.983336,
+            29.267055
+          ]
+        },
+        "id": "node/8465280710"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8599315953",
+          "name": "Kalimpong",
+          "name:bn": "কালিম্পং",
+          "name:en": "Kalimpong",
+          "name:ml": "കാലിംപോങ്ങ്",
+          "name:ne": "कालेबुङ",
+          "old_name:en": "Dalingkot",
+          "place": "town",
+          "population": "50000",
+          "wikidata": "Q500877"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            88.4723676,
+            27.0702869
+          ]
+        },
+        "id": "node/8599315953"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/8985637273",
+          "name": "लक्ष्मी बजार",
+          "name:en": "Laxmi BaZaar",
+          "name:ne": "लक्ष्मी बजार",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.6201807,
+            27.9681306
+          ]
+        },
+        "id": "node/8985637273"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9019286290",
+          "name": "चाैदण्डीगढी",
+          "name:en": "Chaudandigadhi",
+          "name:ne": "चाैदण्डीगढी",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            86.8848108,
+            26.8118241
+          ]
+        },
+        "id": "node/9019286290"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9271197952",
+          "name": "होलेरि",
+          "name:en": "Holeri",
+          "name:ne": "होलेरि",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.5064498,
+            28.184019
+          ]
+        },
+        "id": "node/9271197952"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9771055596",
+          "name": "चन्द्रौटा",
+          "name:en": "Chandrauta",
+          "name:ne": "चन्द्रौटा",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.8645864,
+            27.648914
+          ]
+        },
+        "id": "node/9771055596"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/9943931443",
+          "name": "रिम्ना बजार",
+          "name:en": "Rimna Bazar",
+          "name:ne": "रिम्ना बजार",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            82.2785846,
+            28.698965
+          ]
+        },
+        "id": "node/9943931443"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10062755155",
+          "name": "Bestada",
+          "name:en": "Bestada",
+          "name:ne": "बेस्तडा",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.8255404,
+            28.7873664
+          ]
+        },
+        "id": "node/10062755155"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10255229528",
+          "name": "अघैया",
+          "name:en": "Aghaiya",
+          "name:ne": "अघैया",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            81.9569175,
+            28.0420425
+          ]
+        },
+        "id": "node/10255229528"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10266637632",
+          "name": "मेलम्ची",
+          "name:en": "Melamchi",
+          "name:ne": "मेलम्ची",
+          "place": "city"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            85.5761316,
+            27.8293022
+          ]
+        },
+        "id": "node/10266637632"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10269035814",
+          "name": "पालुङटार बजार",
+          "name:de": "Palungtar Bazar",
+          "name:en": "Palungtar Bazar",
+          "name:ne": "पालुङटार बजार",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.4845196,
+            28.0479977
+          ]
+        },
+        "id": "node/10269035814"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10737861221",
+          "name": "Laksmipur",
+          "name:ne": "लक्ष्मीपुर",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.3964525,
+            28.6639306
+          ]
+        },
+        "id": "node/10737861221"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10744012052",
+          "name": "Amraiya",
+          "name:ne": "अमरैया",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.4416263,
+            28.683764
+          ]
+        },
+        "id": "node/10744012052"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/10956790011",
+          "name": "अत्तेरिया",
+          "name:en": "Attairya",
+          "name:ne": "अत्तेरिया",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            80.5528548,
+            28.8119245
+          ]
+        },
+        "id": "node/10956790011"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "node/11277494560",
+          "name": "Kotre",
+          "name:ne": "कोत्रे",
+          "place": "town"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            84.0824175,
+            28.0920304
+          ]
+        },
+        "id": "node/11277494560"
+      }
+    ]
+  }
