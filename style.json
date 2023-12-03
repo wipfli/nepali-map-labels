@@ -536,7 +536,7 @@
                     ["get", "name_ne_encoded"],
                     {},
                     "\n",
-                    {},
+                    {}, 
                     ["get", "name:en"],
                     {"font-scale": 0.5}
                 ]
