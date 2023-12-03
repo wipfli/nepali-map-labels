@@ -531,7 +531,15 @@
                     "the-name"
                 ],
                 "text-size": 32,
-                "text-field": ["get", "name_ne_encoded"]
+                "text-field": [
+                    "format",
+                    ["get", "name_ne_encoded"],
+                    {},
+                    "\n",
+                    {},
+                    ["get", "name:en"],
+                    {"font-scale": 0.5}
+                ]
             },
             "source": "my-label"
         }
